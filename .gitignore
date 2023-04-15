@@ -2,4 +2,4 @@
 venv
 .env
 training_checkpoints/
-
+fine_tuned_bert_sms_spam/
